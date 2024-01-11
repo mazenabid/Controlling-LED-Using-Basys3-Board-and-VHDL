@@ -28,8 +28,6 @@ This project focuses on designing a digital circuit using VIVADO for the BASYS 3
 - Detailed instructions on setting up the hardware and loading the VHDL code onto the BASYS 3 board can be found in the files above.
 
 ## License
-This project is open source and available under the [MIT License](LICENSE.md).
+This project is open source.
 
-## Contributions
-Contributions, bug reports, and feature requests are welcome. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
